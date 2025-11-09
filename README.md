@@ -1,10 +1,17 @@
-# Medizinphysik Berechnungs-App
+# Medizinphysik Berechnungs-App 🏥
 
 Eine professionelle Flutter-Anwendung für medizinphysikalische Berechnungen in der Strahlentherapie.
 
-![Flutter](https://img.shields.io/badge/Flutter-3.0+-blue.svg)
-![Dart](https://img.shields.io/badge/Dart-3.0+-blue.svg)
+![Flutter](https://img.shields.io/badge/Flutter-3.24.5-blue.svg)
+![Dart](https://img.shields.io/badge/Dart-3.5.4-blue.svg)
 ![License](https://img.shields.io/badge/license-Educational-green.svg)
+![Platform](https://img.shields.io/badge/platform-Web%20%7C%20Android%20%7C%20iOS-lightgrey)
+
+## 🌐 Live Demo
+
+**🚀 [App jetzt testen](https://DEIN-USERNAME.github.io/medphysik-app/)**
+
+_(Nach GitHub Deployment verfügbar)_
 
 ## 📱 Features
 
