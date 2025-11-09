@@ -1,0 +1,38 @@
+name: medphysik_app
+description: Medizinphysik Berechnungs-App für Dosimetrie und Strahlentherapie
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # State Management
+  provider: ^6.1.1
+  
+  # Math & Calculations
+  math_expressions: ^2.4.0
+  
+  # Internationalization
+  intl: ^0.18.1
+  
+  # UI Components
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  
+  # App Icon
+  # flutter_icons:
+  #   android: true
+  #   ios: true
+  #   image_path: "assets/icon/icon.png"
